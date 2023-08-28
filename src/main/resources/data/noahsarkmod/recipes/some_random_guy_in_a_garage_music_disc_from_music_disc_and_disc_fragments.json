@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "holy_bread_of_noah",
+  "pattern": [
+    "DDD",
+    "DMD",
+    "DDD"
+  ],
+  "key": {
+    "M": {
+      "tag": "minecraft:music_discs"
+    },
+    "D": {
+      "item": "minecraft:disc_fragment_5"
+    }
+  },
+  "result": {
+    "item": "noahsarkmod:some_random_guy_in_a_garage_music_disc"
+  },
+  "show_notification": true
+}

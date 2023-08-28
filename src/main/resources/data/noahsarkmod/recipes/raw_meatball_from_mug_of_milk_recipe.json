@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "raw_meatball",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "noahsarkmod:mug_of_milk"
+    }
+  ],
+  "result": {
+    "item": "noahsarkmod:raw_meatball",
+    "count": 4
+  },
+  "show_notification": true
+}

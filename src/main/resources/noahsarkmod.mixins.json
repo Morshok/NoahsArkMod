@@ -1,0 +1,25 @@
+{
+	"required": true,
+	"package": "net.morshok.noahsarkmod.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"NoahsArkModMixin",
+      	"entity.MixinLivingEntity",
+		"entity.passive.MixinCowEntity",
+		"entity.mob.MixinEndermanEntity",
+		"entity.decoration.painting.MixinPaintingEntity",
+		"entity.ai.brain.task.MixinFarmerWorkTask",
+		"entity.ai.brain.task.MixinGatherItemsVillagerTask"
+	],
+	"client": [
+		"client.render.item.AccessorItemRenderer",
+		"client.render.item.MixinItemRenderer",
+		"client.render.model.MixinModelLoader"
+	],
+	"server": [
+
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

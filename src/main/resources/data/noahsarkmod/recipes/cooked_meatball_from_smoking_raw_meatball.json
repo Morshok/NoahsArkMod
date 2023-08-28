@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "category": "misc",
+  "ingredient": {
+    "item": "noahsarkmod:raw_meatball"
+  },
+  "result": "noahsarkmod:cooked_meatball",
+  "experience": 0.1,
+  "cookingtime": 100,
+  "show_notification": true
+}

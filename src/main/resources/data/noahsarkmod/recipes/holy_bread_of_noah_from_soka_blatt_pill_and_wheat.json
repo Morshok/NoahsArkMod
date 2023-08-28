@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "holy_bread_of_noah",
+  "pattern": [
+    " W ",
+    "WSW",
+    " W "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "S": {
+      "item": "noahsarkmod:soka_blatt_pill"
+    }
+  },
+  "result": {
+    "item": "noahsarkmod:holy_bread_of_noah"
+  },
+  "show_notification": true
+}

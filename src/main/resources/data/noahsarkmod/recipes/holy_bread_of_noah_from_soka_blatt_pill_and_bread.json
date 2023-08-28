@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "group": "holy_bread_of_noah",
+  "ingredients": [
+    {
+      "item": "noahsarkmod:soka_blatt_pill"
+    },
+    {
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "noahsarkmod:holy_bread_of_noah"
+  },
+  "show_notification": true
+}

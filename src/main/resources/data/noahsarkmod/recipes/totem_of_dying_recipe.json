@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "combat",
+  "ingredients": [
+    {
+      "item": "minecraft:totem_of_undying"
+    },
+    {
+      "item": "minecraft:wither_rose"
+    }
+  ],
+  "result": {
+    "item": "noahsarkmod:totem_of_dying",
+    "count": 1
+  },
+  "show_notification": true
+}

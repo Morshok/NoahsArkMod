@@ -1,0 +1,101 @@
+{
+  "laughter": {
+    "subtitle": "subtitles.noahsarkmod.laughter",
+    "sounds": [
+      "noahsarkmod:laughter"
+    ]
+  },
+  "knockback2_bread": {
+    "subtitle": "subtitles.noahsarkmod.knockback2_bread",
+    "sounds": [
+      "noahsarkmod:knockback2_bread"
+    ]
+  },
+  "sip": {
+    "subtitle": "subtitles.noahsarkmod.sip",
+    "sounds": [
+      "noahsarkmod:sip"
+    ]
+  },
+  "sip_done": {
+    "subtitle": "subtitles.noahsarkmod.sip_done",
+    "sounds": [
+      "noahsarkmod:sip_done"
+    ]
+  },
+  "burp": {
+    "subtitle": "subtitles.noahsarkmod.burp",
+    "sounds": [
+      "noahsarkmod:burp"
+    ]
+  },
+  "i_have_anthons_car_keys_1": {
+    "subtitle": "subtitles.noahsarkmod.i_have_anthons_car_keys_1",
+    "sounds": [
+      "noahsarkmod:i_have_anthons_car_keys_1"
+    ]
+  },
+  "i_have_anthons_car_keys_2": {
+    "subtitle": "subtitles.noahsarkmod.i_have_anthons_car_keys_2",
+    "sounds": [
+      "noahsarkmod:i_have_anthons_car_keys_2"
+    ]
+  },
+  "i_have_anthons_car_keys_3": {
+    "subtitle": "subtitles.noahsarkmod.i_have_anthons_car_keys_3",
+    "sounds": [
+      "noahsarkmod:i_have_anthons_car_keys_3"
+    ]
+  },
+  "grimace_shake_burp": {
+    "subtitle": "subtitles.noahsarkmod.grimace_shake_burp",
+    "sounds": [
+      "noahsarkmod:grimace_shake_burp"
+    ]
+  },
+  "fucking_meatball_1": {
+    "subtitle": "subtitles.noahsarkmod.fucking_meatball_1",
+    "sounds": [
+      "noahsarkmod:fucking_meatball_1"
+    ]
+  },
+  "fucking_meatball_2": {
+    "subtitle": "subtitles.noahsarkmod.fucking_meatball_2",
+    "sounds": [
+      "noahsarkmod:fucking_meatball_2"
+    ]
+  },
+  "fucking_bird_1": {
+    "subtitle": "subtitles.noahsarkmod.fucking_bird_1",
+    "sounds": [
+      "noahsarkmod:fucking_bird_1"
+    ]
+  },
+  "fucking_bird_2": {
+    "subtitle": "subtitles.noahsarkmod.fucking_bird_2",
+    "sounds": [
+      "noahsarkmod:fucking_bird_2"
+    ]
+  },
+  "fucking_bird_3": {
+    "subtitle": "subtitles.noahsarkmod.fucking_bird_3",
+    "sounds": [
+      "noahsarkmod:fucking_bird_3"
+    ]
+  },
+  "giga_chad_theme": {
+    "subtitle": "subtitles.noahsarkmod.giga_chad_theme",
+    "sounds": [
+      "noahsarkmod:giga_chad_theme"
+    ]
+  },
+  "some_random_guy_in_a_garage": {
+    "subtitle": "subtitles.noahsarkmod.some_random_guy_in_a_garage",
+    "sounds": [
+      {
+        "name": "noahsarkmod:some_random_guy_in_a_garage",
+        "stream": true
+      }
+    ]
+  }
+}

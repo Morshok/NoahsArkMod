@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "noahsarkmod:cooked_meatball"
+    },
+    "title": "NoahsArkMod Advancements",
+    "description": "The creation of a single meatball is the beginning of a long winding path of possibilities...",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "noahsarkmod:textures/gui/advancements/backgrounds/noahsarkmod.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "noahsarkmod:raw_meatball"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

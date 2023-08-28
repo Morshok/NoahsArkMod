@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "noahsarkmod:mug_of_water"
+    },
+    {
+      "item": "minecraft:orange_dye"
+    }
+  ],
+  "result": {
+    "item": "noahsarkmod:mug_of_fanta",
+    "count": 1
+  },
+  "show_notification": true
+}

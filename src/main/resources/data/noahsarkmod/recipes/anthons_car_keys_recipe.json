@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "combat",
+    "pattern": [
+        "#i#",
+        "#iR",
+        "DDD"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_nugget"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "D": {
+            "item": "minecraft:dried_kelp"
+        }
+    },
+    "result": {
+        "item": "noahsarkmod:anthons_car_keys"
+    }
+}

@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "noahsarkmod",
+	"version": "${version}",
+	"name": "NoahsArkMod",
+	"description": "This is a Minecraft mod featuring cursed items in reference to the man, the myth and the legend himself, Noah!",
+	"authors": [
+		"Morshok"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/noahsarkmod/textures/item/holy_bread_of_noah.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.morshok.noahsarkmod.NoahsArkMod"
+		],
+		"client": [
+			"net.morshok.noahsarkmod.NoahsArkModClient"
+		],
+		"fabric-datagen": [
+			"net.morshok.noahsarkmod.NoahsArkModDataGenerator"
+		]
+	},
+	"mixins": [
+		"noahsarkmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
